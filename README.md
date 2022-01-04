@@ -7,7 +7,7 @@
 <br><br>
 <p> </p>
 <span> <img width="300px" height="350px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png"/> </span>
-<span> <img width="550px" height="350px" src="https://user-images.githubusercontent.com/77142775/147838100-766fbdfb-2281-4396-b7c9-636eabeb1b18.png"/> </span>
+<span> <img width="450px" height="350px" src="https://user-images.githubusercontent.com/77142775/147838100-766fbdfb-2281-4396-b7c9-636eabeb1b18.png"/> </span>
 
 I do the backend with Spring Framework and I am familiar with its related projects such as:
 
