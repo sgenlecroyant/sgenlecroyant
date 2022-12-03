@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=sgenlecroyant&style=flat-square)
 ### Your Coding Partner here 👊👊👊, 
 #### *I am an undergraduate student*, lots of commits and new public repos are coming
 
